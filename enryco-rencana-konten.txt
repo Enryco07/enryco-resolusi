@@ -3,7 +3,11 @@ RENCANA KONTEN ENRYCO
 - Javascript
   * ES6
   * Framework Javascript
+     - vue
+     - react
   - Struktur Data Dasar
 - PHP Framework
+  - Laravel
 - Interview
 - Vlogs
+- phyton
